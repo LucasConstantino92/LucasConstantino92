@@ -56,4 +56,4 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/LucasConstantino92/LucasConstantino92/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/LucasConstantino92/LucasConstantino92/blob/output/github-contribution-grid-snake.svg)
