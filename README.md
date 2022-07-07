@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Languagues who i'm currently learning:</p>
+<p align="left">Languagues i'm currently learning:</p>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Frameworks who i'm using:</p>
+<p align="left">Frameworks i'm using:</p>
 
 ###
 
