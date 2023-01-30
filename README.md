@@ -4,15 +4,15 @@
 
 ###
 
-<h2 align="left">Hello everyone! I'm Lucas and i'm a Junior Mobile Developer.</h2>
+<h2 align="left">Hello everyone! My name is Lucas and i'm a Junior Mobile Developer.</h2>
 
 ###
 
-<h4 align="left">I'm currently working in a mobile app.</h4>
+<h4 align="left">I'm currently working with Flutter and Android / Java development.</h4>
 
 ###
 
-<p align="left">Languagues i'm currently learning:</p>
+<p align="left">Main languages that i use:</p>
 
 ###
 
@@ -20,15 +20,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 </div>
 
 ###
 
-<p align="left">Frameworks i'm using:</p>
+<p align="left">Frameworks that i use:</p>
 
 ###
 
@@ -41,6 +37,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" width="52" alt="xd logo"  />
 </div>
 
+###
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasConstantino92&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasConstantino92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 ###
 
 <br clear="both">
