@@ -15,12 +15,3 @@ Hello! My name is Lucas, and I'm a Flutter developer.<br><br>I started programmi
 ---
 [![](https://visitcount.itsvg.in/api?id=LucasConstantino92&icon=0&color=0)](https://visitcount.itsvg.in)
   
-###
-
-<br clear="both">
-
-<p align="left">Contribuitions:</p>
-
-###
-
-![Snake animation](https://github.com/LucasConstantino92/LucasConstantino92/blob/output/github-contribution-grid-snake.svg)
