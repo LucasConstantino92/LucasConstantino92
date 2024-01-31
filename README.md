@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hello! My name is Lucas, and I'm a Flutter developer.<br><br>I started programming around 2020, initially focusing on Android development with Java and Kotlin. In 2022, I made the decision to fully transition to Flutter, as I felt it was a perfect fit for me, and I've been developing my skills in it ever since.<br><br>I have previously worked with Next Bank and the BoxOffice application. Currently, I am involved in the development of another digital bank, which will be a multi-platform solution.<br><br>I am also learning Back-End development using GoLang.
+My name is Lucas, and I am a Mobile developer, specializing primarily in Flutter. Currently, I am working on the development of the Miban4 Bank, which will be available in Brazil and some African countries. I have been studying and developing in Flutter for almost two years, gaining good coding practices and striving to keep the code as clean as possible. Along with my experience, I have also used and studied various app state management solutions, with GetX being the one I adapted to the most, although I am also comfortable with BloC and Provider.
+
+I can develop an application using local storage or an API without performance issues. I have learned to use unit tests and widget tests, which are essential for ensuring good performance in the final application. I have launched the Miban4 app on the App Store, and it is already available and functional, featuring services like Pix, Transfers, and Payments.
+
+I also had a brief experience with Next Bank, where I worked with Android and Java. Although I did not go deep into the project, I had the opportunity to assist in some necessary tasks. I was part of the initial development of the BoxOffice app (a workspace rental application) at Bravve, working with Android and Java. I was responsible for consuming one of the APIs to provide detailed information about the user's chosen workspace on the screen.
+
+In my studies, I have also learned to use Kotlin with Android, although I haven't gained real-world development experience with it.
+
+Regarding languages, I am intermediate in English, capable of communicating and understanding well, both spoken and written.
+
+I am always seeking to advance my mobile knowledge, acquire new skills, and enhance my productivity.
 
 
 ## 🌐 Socials:
