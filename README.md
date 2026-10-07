@@ -1,27 +1,71 @@
-# 💫 About Me:
-My name is Lucas, and I am a Mobile developer, specializing primarily in Flutter. Currently, I am working on the development of the Miban4 Bank, which will be available in Brazil and some African countries. I have been studying and developing in Flutter for almost two years, gaining good coding practices and striving to keep the code as clean as possible. Along with my experience, I have also used and studied various app state management solutions, with GetX being the one I adapted to the most, although I am also comfortable with BloC and Provider.
+# Hi, I'm Lucas Constantino 👋
 
-I can develop an application using local storage or an API without performance issues. I have learned to use unit tests and widget tests, which are essential for ensuring good performance in the final application. I have launched the Miban4 app on the App Store, and it is already available and functional, featuring services like Pix, Transfers, and Payments.
-
-I also had a brief experience with Next Bank, where I worked with Android and Java. Although I did not go deep into the project, I had the opportunity to assist in some necessary tasks. I was part of the initial development of the BoxOffice app (a workspace rental application) at Bravve, working with Android and Java. I was responsible for consuming one of the APIs to provide detailed information about the user's chosen workspace on the screen.
-
-In my studies, I have also learned to use Kotlin with Android, although I haven't gained real-world development experience with it.
-
-Regarding languages, I am intermediate in English, capable of communicating and understanding well, both spoken and written.
-
-I am always seeking to advance my mobile knowledge, acquire new skills, and enhance my productivity.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/luccons92/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-constantino-290778219/) 
-
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=LucasConstantino92&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=LucasConstantino92&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasConstantino92&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Senior-Leaning Mobile & Multiplatform Engineer** specializing in **Flutter & Dart**, with native Android roots (Java/XML).  
+I build resilient, production-grade applications across **Sports Tech**, **Fintech**, and **SaaS** platforms serving **10,000+ active teams**. Currently scaling systems into **Full-Stack Development** (TypeScript, Node.js, Rust).
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LucasConstantino92&icon=0&color=0)](https://visitcount.itsvg.in)
-  
+
+## ⚡ Real-World Impact & Production Scope
+
+- ⚽ **Athletic Gear (Sports Tech & Athlete Management):**
+  - Scaled a cross-platform (iOS, Android, Responsive Web) platform supporting **10,000+ active teams**.
+  - Engineered declarative navigation via type-safe code-gen routes (`go_router` + `go_router_builder`) and universal deep linking (`app_links`).
+  - Implemented reactive state pipelines with modern **Riverpod 3.x** code generation (`riverpod_generator`).
+  - Instrumented production observability using **Sentry** and structured logging via **Talker** (`talker_riverpod_logger`).
+- 💳 **M4 Group (Financial Services & Banking):**
+  - Front-end engineer designing secure financial flows, transactional security, REST API integrations, and robust state orchestration with **GetX**.
+- 🏢 **MVL (Multiplatform Architecture):**
+  - Architected shared domain/core logic via modular internal packages (`mvl_app_core`, `mvl_lint`) to enforce shared rules, clean code, and zero duplication across multi-repo environments.
+- 🚀 **Delivery, DevOps & CI/CD:**
+  - Automated builds, code-signing, and multi-flavor pipelines on **Codemagic**, alongside manual and automated releases on **Google Play Console** and **Apple App Store Connect**.
+- 🛠️ **Foundations:** In tech since late 2021; native Android (Java/XML) background at **Banco Next** and **Foursys**, bringing deep native platform understanding to Flutter.
+
+---
+
+## 🛠️ In-Depth Technical Ecosystem
+
+### 📱 Architecture, State & Routing
+- **Framework & Language:** Flutter (Mobile + Responsive Web) & modern Dart (SDK 3.13+).
+- **Reactive State Management:** **Riverpod 3.x** with annotations and code generation (`riverpod_annotation`, `riverpod_generator`) for compile-time safety; extensive production experience with **GetX** in fintech architectures.
+- **Deep Linking & Navigation:** **GoRouter** with route generation (`go_router_builder`), unified URL strategies, and deep link handling (`app_links`).
+- **Code Generation & Tooling:** `build_runner`, `flutter_gen` (strongly typed assets/fonts), and `json_annotation` for rock-solid model serialization.
+
+### 🔒 Device Capabilities, Security & Core Features
+- **Security & Cryptography:** On-device secure processing and data encryption using `pointycastle` and `encrypter_plus`.
+- **Hardware & Native OS:** Geolocation & reverse geocoding (`geolocator`, `geocoding`), runtime device permissions (`permission_handler`), file manipulation, image processing (`image_picker`, `image_cropper`), and custom Native Splash/App Icons configurations.
+- **UI & Data Visualization:** Rich interactive sports analytics dashboards with `fl_chart`, SVG graphics, and responsive web layouts.
+- **Internationalization (i18n):** Multi-language and dynamic locale management with `intl`, `jiffy`, and custom timezone offsets.
+
+### ☁️ Backend-as-a-Service, Observability & Quality
+- **Supabase & Postgres:** Real-time subscriptions, client caching, Row-Level Security (RLS), and auth workflows.
+- **Observability & Diagnostics:** Production crash telemetry and error reporting with **Sentry Flutter**, paired with interactive diagnostics via **Talker**.
+- **Code Standards & Architecture:** Strict linting rules and modular architecture via private git-based core dependencies (`mvl_app_core`, custom linter suites).
+
+### ⚙️ CI/CD, Stores & Tooling
+- **CI/CD Pipelines:** **Codemagic** workflows (build scripts, dependency conflict resolution, API level alignment, pub cache optimizations).
+- **Store Operations:** End-to-end publishing lifecycle, certificate management, test tracks (TestFlight, Internal Testing), and compliance in both stores.
+- **Next Horizon:** Deepening **TypeScript**, **Node.js**, and systems programming with **Rust** to build high-throughput full-stack engines.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-constantino-290778219/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/luccons92/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<details>
+  <summary>📊 Activity & Metrics</summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasConstantino92&theme=dark&hide_border=true&show_icons=true" alt="Lucas's GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasConstantino92&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  </p>
+</details>
